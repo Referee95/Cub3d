@@ -1,0 +1,9 @@
+*.o
+*.out
+cub3D
+cub3D_bonus
+/cub3D.dSYM
+*.swp
+/.vscode
+.DS_Store
+/cub3D_bonus.dSYM
