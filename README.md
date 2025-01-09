@@ -1,5 +1,5 @@
 ---
-![aJ489](https://github.com/amaitou/Cub3d/assets/49293816/6056a29c-b59d-469a-9867-2ddaa57ab407)
+![aJ489](https://github.com/referee95/Cub3d/assets/49293816/6056a29c-b59d-469a-9867-2ddaa57ab407)
 
 ---
 # Cub3D
@@ -16,7 +16,7 @@ The project consists of two parts, the first one is the `Mandatory Part` where y
 	- `3D Graphic with default textures (can be changed based on your choice)`
 	---
 - ### Collaborators
-	This project must be done by two students so, I would welcome this article by thanking my peer [Youssef Khalil](https://github.com/Referee95) since he was my collaborator throughout this project
+	This project must be done by two students so, I would welcome this article by thanking my peer [Youssef Khalil](https://github.com/amaitou) since he was my collaborator throughout this project
 ---
 
 # What is Raycasting?
@@ -45,7 +45,7 @@ Raycasting is computationally efficient for certain applications, particularly f
 Firstly, try to clone the game using the git command:
 
 ```sh
-git clone https://github.com/amaitou/Cub3d
+git clone https://github.com/referee95/Cub3d
 ```
 ---
 Then `cd` to the folder `Cub3D` and cmake the mlx library (it comes included with the repository)
@@ -80,10 +80,4 @@ make run_bonus # it will run a default map for the bonus part
 ```
 ---
 > Enjoy playing and discovering raycasting
----
-
-# **Contact Me**
-
-* [Twitter][_1]
-
 [_1]: https://twitter.com/amait0u
