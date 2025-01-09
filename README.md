@@ -1,5 +1,5 @@
 ---
-![aJ489](https://github.com/referee95/Cub3d/assets/49293816/6056a29c-b59d-469a-9867-2ddaa57ab407)
+![aJ489](https://github.com/Cub3d/assets/49293816/6056a29c-b59d-469a-9867-2ddaa57ab407)
 
 ---
 # Cub3D
