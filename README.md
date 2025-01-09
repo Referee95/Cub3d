@@ -80,4 +80,3 @@ make run_bonus # it will run a default map for the bonus part
 ```
 ---
 > Enjoy playing and discovering raycasting
-[_1]: https://twitter.com/amait0u
