@@ -1,5 +1,5 @@
 ---
-![aJ489](https://github.com/Cub3d/assets/49293816/6056a29c-b59d-469a-9867-2ddaa57ab407)
+![aJ489](https://github.com/amaitou/Cub3d/assets/49293816/6056a29c-b59d-469a-9867-2ddaa57ab407)
 
 ---
 # Cub3D
@@ -16,7 +16,7 @@ The project consists of two parts, the first one is the `Mandatory Part` where y
 	- `3D Graphic with default textures (can be changed based on your choice)`
 	---
 - ### Collaborators
-	This project must be done by two students so, I would welcome this article by thanking my peer [Youssef Khalil](https://github.com/amaitou) since he was my collaborator throughout this project
+	This project must be done by two students so, I would welcome this article by thanking my peer [	Amine Ait Ouazghour](https://github.com/amaitou) since he was my collaborator throughout this project
 ---
 
 # What is Raycasting?
